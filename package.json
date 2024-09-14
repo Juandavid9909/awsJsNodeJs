@@ -9,6 +9,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "@aws-sdk/client-iam": "^3.651.1",
         "aws-sdk": "^2.1089.0"
     }
 }
